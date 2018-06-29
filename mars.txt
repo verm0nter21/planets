@@ -2,4 +2,3 @@ mars is cold and dry yada yada yada
 sounds like a good vacation spot
 i am adding some stuff after first commit
  now a 4th line. i removed a blank line between 2 and 3
-the 5th line
